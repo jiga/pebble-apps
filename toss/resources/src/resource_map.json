@@ -1,0 +1,16 @@
+
+{"friendlyVersion": "1.0",
+ "versionDefName": "APP_RESOURCES",
+ "media": [
+	   {
+            "type": "png",
+            "defName": "COIN_HEAD",
+            "file": "images/head.png"
+	   },
+	   {
+            "type": "png",
+            "defName": "COIN_TAIL",
+            "file": "images/tail.png"
+	   }
+	  ]
+}
